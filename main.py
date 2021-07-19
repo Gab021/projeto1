@@ -1,1 +1,1 @@
-print('olá')
+print('hello word')

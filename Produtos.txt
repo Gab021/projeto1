@@ -1,0 +1,7 @@
+carne;açougue;30;12;
+carne;açougue;30;12;
+carne;açougue;30;12;
+carne;açougue;30;12;
+carne;açougue;30;12;
+aa;açougue;22;dd
+aa;açougue;22;dd
